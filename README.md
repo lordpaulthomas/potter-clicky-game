@@ -3,7 +3,7 @@ Clicky Game
 
 Licensing Information: READ LICENSE
 ---
-Project source can be downloaded from https://github.com/lordpaulthomas/clicky-game
+Project source can be downloaded from https://github.com/lordpaulthomas/potter-clicky-game
 ----
 Author
 -----------
