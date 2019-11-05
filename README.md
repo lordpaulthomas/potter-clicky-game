@@ -24,10 +24,25 @@ The game rules are very simple:
 * Click the same image twice, the game is over
 * Click all 12 images in a row, win the game
 
+Link to play the game deployed on GitHut Pages:
+https://lordpaulthomas.github.io/potter-clicky-game/
+
+To play locally on your computer follow _Clone Instructions_
+
+* Clone Instructions
+
+From your command line interface:
+- Navigate to desired download location
+- Use the command ```git clone https://github.com/lordpaulthomas/potter-clicky-game.git```
+- Then enter the root file with the command ```cd potter-clicky-game```
+- Download needed modules for the game ```npm install shuffle-array reactstrap```
+- Start the game with the command ```npm start``
+- Open your default browser and go to address *http://localhost:3000/*
+- To exit the game press  ```[control] + C```  from the command line interface
 
 
-
-
+# Screen Shot of Game
+![database](./src/assests/potterGameScreenShot.png)
 
 
 
