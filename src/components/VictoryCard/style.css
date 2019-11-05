@@ -1,0 +1,21 @@
+#winner{
+  margin-top: 10vh;
+  text-shadow: 2px 2px tomato;
+  text-align: center;
+  color: maroon;
+  font-size: 100px;
+}
+
+#quote {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: khaki;
+  text-align: center;
+  color: gold;
+  font-weight: bold;
+}
+
+#gif{
+  height: 60vh;
+  width: 45vw;
+}
+

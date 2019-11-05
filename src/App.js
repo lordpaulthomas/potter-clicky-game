@@ -1,11 +1,16 @@
 import React from 'react';
-
+import Navbar from './components/Navbar'
+import Header from './components/Header'
+import GameCards from './components/GameCards'
+import Footer from './components/Footer'
 
 function App() {
   return (
     <div>
-      <h1>hello world</h1>
+      <GameCards />
+      <Footer />
     </div>
+    
   );
 }
 

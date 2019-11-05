@@ -1,0 +1,19 @@
+#loser{
+  margin-top: 20vh;
+  text-shadow: 2px 2px seagreen;
+  text-align: center;
+  color: green;
+  font-size: 100px;
+}
+
+#quote2{
+  text-shadow: seagreen;
+  text-align: center;
+  color: springgreen;
+}
+
+#gif{
+  margin-left: 40px;
+  height: 400px;
+  width: 400px;
+}

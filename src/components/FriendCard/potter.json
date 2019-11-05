@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Voldemort",
+    "image": "http://idigitalcitizen.files.wordpress.com/2009/09/lord-voldemort-hp5-green-320x480-iphone.jpg?w=320"
+  },
+  {
+    "id": 2,
+    "name": "Dumbledore",
+    "image": "https://www.bing.com/th?id=OIP.xahsG_HRh8B3LrBMLvG9GAHaJ4&pid=Api&rs=1"
+  },
+  {
+    "id": 3,
+    "name": "Hermoine",
+    "image": "http://talkiewood.com/wp-content/uploads/2014/03/hermione-granger-wallpaper2.jpg?w=610"
+  },
+  {
+    "id": 4,
+    "name": "Snape",
+    "image": "http://2.bp.blogspot.com/-jBKy8iLeSi8/ThstHk1ejxI/AAAAAAAABao/YSof0EL7U1E/s1600/severus-snape.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Draco",
+    "image": "https://www.bing.com/th?id=OIP.pL2ZO8C3QeH0jPURu7s52gHaLZ&pid=Api&rs=1"
+  },
+  {
+    "id": 6,
+    "name": "Ron",
+    "image": "https://i.pinimg.com/736x/3e/96/c3/3e96c36fda338aeeada6340d63d7ebc1--movie-characters-fictional-characters.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hagrid",
+    "image": "https://i.pinimg.com/originals/e0/c7/d1/e0c7d1a93ce1d42e985b1b578d2ee1d2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sirius",
+    "image": "http://vignette3.wikia.nocookie.net/harrypotter/images/4/4d/SiriusBlackTree.jpg/revision/latest?cb=20080203105304"
+  },
+  {
+    "id": 9,
+    "name": "Bellatrix",
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/d8/a8/ad/d8a8ad379bc39ac46020e2a0fad5d8e1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Filch",
+    "image": "http://3.bp.blogspot.com/-TmW3OeIKujA/UjdtSGm6BBI/AAAAAAAACXQ/fRSA_m-QSws/s1600/Filch-Norris.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Harry",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/20/15/enhanced/webdr04/grid-cell-1182-1448053182-2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dementor",
+    "image": "https://cdn.shopify.com/s/files/1/2597/4248/products/hpdcfig15_17_2028x2048@2x.jpg?v=1562020116"
+  }
+]

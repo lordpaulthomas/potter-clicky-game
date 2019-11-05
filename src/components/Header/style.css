@@ -1,0 +1,14 @@
+#image{
+  opacity: .05;
+  height: 70vh;
+}
+
+#title{
+  font-size: 60px;
+  margin-top: 30vh;
+}
+
+#rules{
+    margin: 1em;
+    text-align: center;
+}
