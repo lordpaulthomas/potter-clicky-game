@@ -36,7 +36,7 @@ From your command line interface:
 - Use the command ```git clone https://github.com/lordpaulthomas/potter-clicky-game.git```
 - Then enter the root file with the command ```cd potter-clicky-game```
 - Download needed modules for the game ```npm install shuffle-array reactstrap```
-- Start the game with the command ```npm start``
+- Start the game with the command ```npm start```
 - Open your default browser and go to address *http://localhost:3000/*
 - To exit the game press  ```[control] + C```  from the command line interface
 
