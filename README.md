@@ -24,12 +24,12 @@ The game rules are very simple:
 * Click the same image twice, the game is over
 * Click all 12 images in a row, win the game
 
-Link to play the game deployed on GitHut Pages:
-https://lordpaulthomas.github.io/potter-clicky-game/
+Live Demo: https://lordpaulthomas.github.io/potter-clicky-game/
 
-To play locally on your computer follow _Clone Instructions_
 
-* Clone Instructions
+
+Installation Instructions:
+----
 
 From your command line interface:
 - Navigate to desired download location
