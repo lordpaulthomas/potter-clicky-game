@@ -42,7 +42,7 @@ From your command line interface:
 
 
 # Screen Shot of Game
-![database](./src/assests/potterGameScreenShot.png)
+![database](./src/assests/potterGameScreenShot.png.icloud)
 
 
 
