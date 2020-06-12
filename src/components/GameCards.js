@@ -6,19 +6,19 @@ import VictoryCard from '../components/VictoryCard'
 import LoserCard from './LoserCard'
 import Header from './Header'
 
-import { Button, ModalFooter, Modal, ModalHeader, ModalBody } from 'reactstrap';
+import { ModalFooter, Modal, ModalHeader, ModalBody } from 'reactstrap';
 import Navbar from './Navbar'
 var shuffle = require('shuffle-array')
 
-const styles = {
-  answerWrong: {
-    color: 'red'
-  },
-  asnwerRight: {
-    color: 'green'
-  }
+// const styles = {
+//   answerWrong: {
+//     color: 'red'
+//   },
+//   asnwerRight: {
+//     color: 'green'
+//   }
 
-}
+// }
 
 class GameCards extends React.Component {
 
