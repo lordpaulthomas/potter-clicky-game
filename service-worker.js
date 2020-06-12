@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/potter-clicky-game/precache-manifest.fb212720849590766c29654bfdc71cb9.js"
+  "/potter-clicky-game/precache-manifest.4009825dc7d7f2dddc292060c8e67f9d.js"
 );
 
 self.addEventListener('message', (event) => {

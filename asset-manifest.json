@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/potter-clicky-game/static/css/main.1300254e.chunk.css",
-    "main.js": "/potter-clicky-game/static/js/main.d5e68ca8.chunk.js",
-    "main.js.map": "/potter-clicky-game/static/js/main.d5e68ca8.chunk.js.map",
+    "main.css": "/potter-clicky-game/static/css/main.eef12b82.chunk.css",
+    "main.js": "/potter-clicky-game/static/js/main.ba4f838b.chunk.js",
+    "main.js.map": "/potter-clicky-game/static/js/main.ba4f838b.chunk.js.map",
     "runtime-main.js": "/potter-clicky-game/static/js/runtime-main.916a63fb.js",
     "runtime-main.js.map": "/potter-clicky-game/static/js/runtime-main.916a63fb.js.map",
     "static/js/2.6fa803cc.chunk.js": "/potter-clicky-game/static/js/2.6fa803cc.chunk.js",
     "static/js/2.6fa803cc.chunk.js.map": "/potter-clicky-game/static/js/2.6fa803cc.chunk.js.map",
     "index.html": "/potter-clicky-game/index.html",
-    "precache-manifest.fb212720849590766c29654bfdc71cb9.js": "/potter-clicky-game/precache-manifest.fb212720849590766c29654bfdc71cb9.js",
+    "precache-manifest.4009825dc7d7f2dddc292060c8e67f9d.js": "/potter-clicky-game/precache-manifest.4009825dc7d7f2dddc292060c8e67f9d.js",
     "service-worker.js": "/potter-clicky-game/service-worker.js",
-    "static/css/main.1300254e.chunk.css.map": "/potter-clicky-game/static/css/main.1300254e.chunk.css.map"
+    "static/css/main.eef12b82.chunk.css.map": "/potter-clicky-game/static/css/main.eef12b82.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.916a63fb.js",
     "static/js/2.6fa803cc.chunk.js",
-    "static/css/main.1300254e.chunk.css",
-    "static/js/main.d5e68ca8.chunk.js"
+    "static/css/main.eef12b82.chunk.css",
+    "static/js/main.ba4f838b.chunk.js"
   ]
 }
